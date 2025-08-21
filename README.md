@@ -4,7 +4,7 @@ Real-time predictive quality inspection prototype.
 **Frontend:** React (Vite) · **Backend:** Python FastAPI · **Model:** XGBoost / scikit-learn
 
 > End-to-end flow: **Upload → Validate Ranges → Train → Live Simulation**.  
-> Frontend is **React (Vite)** (not Angular). Backend is **Python FastAPI**.
+> Frontend is **React (Vite)**). Backend is **Python FastAPI**.
 
 ---
 
